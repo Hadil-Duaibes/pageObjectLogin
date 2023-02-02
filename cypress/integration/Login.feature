@@ -1,6 +1,6 @@
-Feature: Login
+Feature: Log in
 
-  I want to log into Conduit
+  I want to Login in Conduit
   
   # @smoke
   Scenario: Conduit Login
@@ -11,6 +11,8 @@ Feature: Login
     And I click on Sign in button
     Then "Your Feed" should be shown
      
+   
+
 
 
 
